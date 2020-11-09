@@ -20,6 +20,7 @@ Raymon Anthony Doane: 3.1% (11,606)
 
 * Diana DeGette won the election with a significant total vote count of 272,892 being the highest percentage of total votes at 73.8%
 
+
 ## Election-Audit Summary
 Now that we have automated the tasks to analyze this election's data using Python, this is a great opportunity to use the same method in analysing data for any election results throughout the country. Python was fairly easy to write given that the syntax seem much simplier to understand. It also performed any calcualtion fairly quickly when compared to Excel or VBA. The runtime in this tool was also fast considering there was a large amount of data in the CSV file. The existing script can simply be revised to implement different sets of counties and candidates. The process can also be revised to write the summary of the results back into an excel file, instead of a text file, just in case there would be a preference in creating charts or graphs.
 
