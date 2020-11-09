@@ -4,7 +4,8 @@
 In this project I assisted a Colorado Board of Elections employee, Tom, in reporting the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular votes. Using Python, I was tasked to analyze the election data tabulated in a CSV file in order to generate a vote count report to certify the election results.
 
 ## Election-Audit Results
-![Election_Results_Snapshot]()
+![Election_Results_Snapshot](https://github.com/Lora-Borja/Election_Analysis/blob/main/analysis/Election_Results_Snapshot.PNG)
+
 * A total of 369,711 votes were cast in this congressional election
 * In the above snapshot of the Election Results, the number of votes and the percentage of total votes for each county are as follows:
 Jefferson: 10.5% (38,855)
@@ -24,7 +25,8 @@ Now that we have automated the tasks to analyze this election's data using Pytho
 
 ## Challenge Summary
 * Below is a snapshot of the Election Results Printed to the Command Line
-![Election_Results_onCommandline]()
+![Election_Results_onCommandline](https://github.com/Lora-Borja/Election_Analysis/blob/main/analysis/Election_Results_onCommandline.PNG)
+
 * Here is a link to the analysis folder where you will find the Elections Results Saved to a Text file
 
 ## Resources
