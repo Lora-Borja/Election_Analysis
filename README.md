@@ -28,7 +28,9 @@ Now that we have automated the tasks to analyze this election's data using Pytho
 * Below is a snapshot of the Election Results Printed to the Command Line
 ![Election_Results_onCommandline](https://github.com/Lora-Borja/Election_Analysis/blob/main/analysis/Election_Results_onCommandline.PNG)
 
-* Here is a link to the analysis folder where you will find the Elections Results Saved to a Text file
+* Here is a link to the analysis folder where you will find the Elections Results Saved to a Text file:
+(https://github.com/Lora-Borja/Election_Analysis/blob/main/analysis/election_analysis.txt)
+
 
 ## Resources
 - Data Source: election_results.csv
