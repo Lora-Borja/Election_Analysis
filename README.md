@@ -7,14 +7,16 @@ In this project I assisted a Colorado Board of Elections employee, Tom, in repor
 ![Election_Results_Snapshot]()
 * A total of 369,711 votes were cast in this congressional election
 * In the above snapshot of the Election Results, the number of votes and the percentage of total votes for each county are as follows:
-- Jefferson: 10.5% (38,855)
-- Denver: 82.8% (306,055)
-- Arapahoe: 6.7% (24,801)
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+
 * The Denver county had the highest turnout with the largest number of votes
 * In the above snapshot of the Election Results, the number of votes and the percentage of total votes for each candidate are as follows:
-- Charles Casper Stockham: 23.0% (85,213)
-- Diana DeGette: 73.8% (272,892)
-- Raymon Anthony Doane: 3.1% (11,606)
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+
 * Diana DeGette won the election with a significant total vote count of 272,892 being the highest percentage of total votes at 73.8%
 
 ## Election-Audit Summary
